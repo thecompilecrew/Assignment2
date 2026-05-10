@@ -93,7 +93,12 @@ TextbookMarket/
 
 ## 👥 Group Members
 
-*(Add your group members here)*
+1. Songezo Gwabavu
+2. Wandile Gobongo
+3. Mbasa Nyivana
+4. Sisipho Tom
+5. Sinoyolo Mgandela
+6. Enathi Nomda
 
 ---
 

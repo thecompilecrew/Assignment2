@@ -1,4 +1,4 @@
-# 📚 TextBook Market — CSC313 Assignment 2
+# TextBook Market — CSC313 Assignment 2
 
 **University of Fort Hare | Department of Computer Science**  
 **Module:** CSC313 — Object-Oriented Programming  
@@ -6,26 +6,26 @@
 
 ---
 
-## 📱 App Overview
+## App Overview
 
-**TextBook Market** is an Android application that allows university students to buy and sell used textbooks. It was built using Java in Android Studio, demonstrating core OOP principles as required by CSC313 Assignment 2.
+**TextBook Market** is an Android application that allows university students to buy and sell used textbooks. It was built using Java in Android Studio.
 
 ---
 
-## ✅ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 📖 Browse | View all 12+ pre-loaded textbooks available for sale |
-| ➕ List a Book | Sellers can list textbooks with full details including banking info |
-| 🔍 Search | Search by book title, author, or seller name (live search) |
-| 📋 Book Detail | Full detail page for each book including payment info |
-| 🚫 Duplicate Prevention | App blocks duplicate listings (same book + same seller) |
-| ✅ Multiple Listings | Sellers can list multiple different books in one session |
+| Browse | View all 12+ pre-loaded textbooks available for sale |
+| List a Book | Sellers can list textbooks with full details including banking info |
+| Search | Search by book title, author, or seller name (live search) |
+| Book Detail | Full detail page for each book including payment info |
+| Duplicate Prevention | App blocks duplicate listings (same book + same seller) |
+| Multiple Listings | Sellers can list multiple different books in one session |
 
 ---
 
-## 🏗️ OOP Concepts Demonstrated
+## OOP Concepts Demonstrated
 
 ### Interfaces
 - `IListable` — defines `getTitle()`, `getPrice()`, `isAvailable()`, `getSummary()`
@@ -50,7 +50,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TextbookMarket/
@@ -82,16 +82,7 @@ TextbookMarket/
 
 ---
 
-## 🚀 Setup Instructions
-
-1. Clone this repository in Android Studio
-2. Open the `TextbookMarket` folder as an Android project
-3. Let Gradle sync automatically
-4. Run on an emulator or physical device (API 24+)
-
----
-
-## 👥 Group Members
+##  Group Members
 
 1. Songezo Gwabavu
 2. Wandile Gobongo
@@ -102,7 +93,7 @@ TextbookMarket/
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Built with Java (no Kotlin)
 - Minimum SDK: API 24 (Android 7.0)

@@ -16,10 +16,17 @@ Interface of the App: it allows user to choose which action to perform
 Browse : A seller and buyer to browse the texbook that are available, and the price of the book.
 
 <img width="250" height="540" alt="WhatsApp Image 2026-05-10 at 16 14 09" src="https://github.com/user-attachments/assets/775b2608-9a78-47da-ac62-f44042202084" />
-List:
+
+List: Selecting list a Tetxbook, allows the seller to add the text to the list. 
+
 <img width="250" height="540" alt="list" src="https://github.com/user-attachments/assets/dbc9b088-6e66-434c-b4c0-da88caa4a61e" />
-Search:
+
+
+Search : This allow the user, the user to search book direct by Title and Author 
+
+
 <img width="250" height="540" alt="Search" src="https://github.com/user-attachments/assets/a0485645-78fe-4a30-ae01-9d81e2903e20" />
+
 
 ---
 

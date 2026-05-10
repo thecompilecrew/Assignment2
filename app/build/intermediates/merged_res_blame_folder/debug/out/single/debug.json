@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\drawable_bg_header.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\drawable\\bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\drawable_bg_badge_student.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\drawable\\bg_badge_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_browse.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\drawable_bg_search_field.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\drawable\\bg_search_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "com.textbookmarket.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.textbookmarket.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_list_book.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_list_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_book_detail.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\drawable_bg_badge_official.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\drawable\\bg_badge_official.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_item_textbook.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\item_textbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-merged_res-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_splash.xml"
+    }
+]

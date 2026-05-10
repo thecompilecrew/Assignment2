@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\item_textbook.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\item_textbook.xml"
+    },
+    {
+        "merged": "com.textbookmarket.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.textbookmarket.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_list_book.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_list_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_book_detail.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-mergeDebugResources-31:\\layout\\activity_browse.xml",
+        "source": "C:\\Users\\songe\\.gradle\\daemon\\8.2\\com.textbookmarket.app-main-34:\\layout\\activity_browse.xml"
+    }
+]

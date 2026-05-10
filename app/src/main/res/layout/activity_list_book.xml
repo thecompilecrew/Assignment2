@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_listing_count"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primary"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Books listed this session: 0"
+            android:textColor="@android:color/white"
+            android:textSize="13sp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Book Information Section -->
+        <TextView style="@style/SectionHeader" android:text="📖 Book Information"/>
+
+        <EditText android:id="@+id/et_title" style="@style/FormField"
+            android:hint="Book Title *" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_author" style="@style/FormField"
+            android:hint="Author(s) *" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_isbn" style="@style/FormField"
+            android:hint="ISBN (optional)" android:inputType="number"/>
+
+        <EditText android:id="@+id/et_subject" style="@style/FormField"
+            android:hint="Subject / Module (e.g. Computer Science)" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_edition" style="@style/FormField"
+            android:hint="Edition (e.g. 3rd Edition)" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_condition" style="@style/FormField"
+            android:hint="Condition (e.g. Good, Excellent, Acceptable)" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_description" style="@style/FormField"
+            android:hint="Description (optional)"
+            android:inputType="textMultiLine"
+            android:lines="3"
+            android:gravity="top"/>
+
+        <!-- Pricing & Quantity Section -->
+        <TextView style="@style/SectionHeader" android:text="💰 Pricing &amp; Quantity"/>
+
+        <EditText android:id="@+id/et_price" style="@style/FormField"
+            android:hint="Selling Price (R) *" android:inputType="numberDecimal"/>
+
+        <EditText android:id="@+id/et_copies" style="@style/FormField"
+            android:hint="Number of Copies *" android:inputType="number"/>
+
+        <!-- Seller Information Section -->
+        <TextView style="@style/SectionHeader" android:text="👤 Seller Information"/>
+
+        <EditText android:id="@+id/et_seller_name" style="@style/FormField"
+            android:hint="Your Full Name *" android:inputType="textPersonName"/>
+
+        <!-- Banking Information Section -->
+        <TextView style="@style/SectionHeader" android:text="🏦 Banking Details for Payment"/>
+
+        <EditText android:id="@+id/et_bank_name" style="@style/FormField"
+            android:hint="Bank Name * (e.g. FNB, Absa, Nedbank)" android:inputType="textCapWords"/>
+
+        <EditText android:id="@+id/et_account_holder" style="@style/FormField"
+            android:hint="Account Holder Name *" android:inputType="textPersonName"/>
+
+        <EditText android:id="@+id/et_account_number" style="@style/FormField"
+            android:hint="Account Number *" android:inputType="number"/>
+
+        <!-- Buttons -->
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/primary"
+            android:text="✅ Submit Listing"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btn_clear"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="24dp"
+            android:backgroundTint="@color/surface_variant"
+            android:text="🔄 Clear Form"
+            android:textColor="@color/text_primary"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+</ScrollView>

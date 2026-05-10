@@ -11,7 +11,8 @@
 **TextBook Market** is an Android application that allows university students to buy and sell used textbooks. It was built using Java in Android Studio.
 
 Interface of the App: it allows user to choose which action to perform
-<img width="250" height="540" alt="Search" src="https://github.com/user-attachments/assets/d2e7205e-8c25-4dbd-b87e-8b99812cd3cf" />
+<img width="250" height="540" alt="front" src="https://github.com/user-attachments/assets/aa4bc949-02c4-4e3d-a9bf-c435f03262b9" />
+
 
 Browse : A seller and buyer to browse the texbook that are available, and the price of the book.
 
